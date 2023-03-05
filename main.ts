@@ -1,3 +1,1 @@
-basic.forever(function () {
-	
-})
+animations.blink(0, 0, 0)
